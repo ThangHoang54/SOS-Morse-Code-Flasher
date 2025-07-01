@@ -29,7 +29,7 @@ Once people would like to send a Morse-code message, they will need to make a ST
 prosign), then the message that they would like to transmit, and then the STOP signal (STOP prosign).  
 
 ## 2. Assessment Key Requirements 
-### 2.1. Hardware: 
+### 2.1. Hardware
 a) A Morse-code SOS flasher hardware should be built with a BUTTON, at which a 220-Ohm resistor and an 
 LED were used.  
 b) A red color LED to indicate the main message, turning on during dit or dah, and turning off during gaps. 
@@ -39,8 +39,7 @@ e) A 7segment LED to count the number of button press.
 
 <img width="307" alt="image" src="https://github.com/user-attachments/assets/6e6bf5fa-c054-4259-85d4-323901daf6c6" />
 
-
-### 2.2 Software: 
+### 2.2 Software
 Use Arduino IDE with C language to program the Morse-code SOS flasher software. Your software must 
 control the hardware to show the signal as required: 
 EEET2505 – Introduction to Embedded Systems  
